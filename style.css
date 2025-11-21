@@ -11,4 +11,10 @@ input{
 button{
     display: block;
     margin-bottom: 10px;
+    
+}
+
+body{
+    background-color: rgb(18, 17, 17);
+    color:rgb(147, 147, 144);
 }
